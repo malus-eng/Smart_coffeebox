@@ -1,4 +1,4 @@
-# Smart Coffee Box ☕️📦
+# Smart Coffee Box 
 
 An Arduino-based smart storage box for coffee beans and tea leaves.  
 It monitors **temperature**, **humidity**, and **TVOC**, and automatically controls a fan, OLED display and buzzer to protect flavour during storage.
