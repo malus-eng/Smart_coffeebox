@@ -112,5 +112,5 @@ All grounds must be common, including MKR ground, fan ground, sensors and buzzer
 The main Arduino sketch lives in:
 
 ```text
-firmware/SmartCoffeeBox/SmartCoffeeBox.ino
+SmartCoffeeBox.ino
 
